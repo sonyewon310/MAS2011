@@ -25,5 +25,3 @@ I could not make it perfect, but I tried to make it work as I imagined.
 This is a windmill with 5 different colors in every fans.
 For my own creation project, I wanted to use Tmat and Rmat module and make something move continuously.
 So, I made a rotating windmill with dynamic colors. The center part has a white circle, and the overlapping parts of the fan looks like a flower.
-
-![image](https://github.com/sonyewon310/MAS2011/assets/138377626/e7bd5e8c-5a92-40ef-86c7-1a327638ee91)
